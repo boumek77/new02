@@ -1,0 +1,7 @@
+{
+  "name": "Login",
+  "private": true,
+  "dependencies": {
+    "bcrypt": "^1.0.3"
+  }
+}
